@@ -28,7 +28,7 @@
   "license": "MIT",
   "main": "./lib/index.js",
   "dependencies": {
-    "aswbxml": "^0.0.4",
+    "aswbxml": "^0.0.5",
     "merge-descriptors": "^1.0.0",
     "ntlm-client": "^0.1.0",
     "request": "^2.65.0",
